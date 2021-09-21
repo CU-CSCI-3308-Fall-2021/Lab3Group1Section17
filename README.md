@@ -6,4 +6,4 @@ dslafksdjn
 sldk;fjalsdk
 
 
-Project Team Member: Aiden Woodard, Connor, Damian
+Project Team Member: Aiden Woodard, Conor, Damian
