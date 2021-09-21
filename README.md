@@ -5,5 +5,3 @@ a;slkdfa;sl
 dslafksdjn
 sldk;fjalsdk
 
-#Project Team Members:
-Aiden Woodard
